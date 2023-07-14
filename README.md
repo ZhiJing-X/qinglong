@@ -15,6 +15,12 @@ https://github.com/ZhiJing-X/QL-script.git
 
 建议自行更改青龙面板的脚本执行时间
 
+### 拉取脚本后缀
+
+```bash
+js py sh ts
+```
+
 ### NodeJs依赖
 
 ```bash
