@@ -83,3 +83,16 @@ cairo-dev
 pango-dev
 giflib-dev
 ```
+
+### BiliBili-Tool
+1.打开青龙编辑 extra.sh 文件，添加如下指令：
+```bash
+# 安装dotnet环境
+curl -sSL https://ghproxy.com/https://raw.githubusercontent.com/RayWangQvQ/BiliBiliToolPro/main/qinglong/ray-dotnet-install.sh | bash /dev/stdin --no-official
+```
+
+### 订阅链接
+2.重启青龙容器
+```bash
+docker exec -it qinglong bash /ql/data/config/extra.sh
+```
