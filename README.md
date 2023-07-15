@@ -97,7 +97,6 @@ giflib-dev
 curl -sSL https://ghproxy.com/https://raw.githubusercontent.com/RayWangQvQ/BiliBiliToolPro/main/qinglong/ray-dotnet-install.sh | bash /dev/stdin --no-official
 ```
 
-### 订阅链接
 2.重启青龙容器
 ```bash
 docker exec -it qinglong bash /ql/data/config/extra.sh
