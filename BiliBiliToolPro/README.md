@@ -76,7 +76,7 @@ BiliBiliTool
 
 ![运行图示](docs/imgs/run-exe.png)
 
-_（如果图片挂了，请自己架梯子，没有的也可以先参考 [我的博客](https://www.cnblogs.com/RayWang/p/13909784.html)，但内容不保证最新)_
+_（如果图片挂了，请自己架梯子，没有的也可以先参考 [我的博客](https://www.iwexe.com)，但内容不保证最新)_
 
 
 ## 1. 如何使用
