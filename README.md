@@ -1,4 +1,4 @@
-# QL-script
+# qinglong
 
 ### 拉取脚本后缀
 
