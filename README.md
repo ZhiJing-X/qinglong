@@ -16,7 +16,7 @@ https://github.com/RayWangQvQ/BiliBiliToolPro.git
 ### 拉取脚本后缀
 
 ```bash
-js py sh ts
+js mjs py pyc sh ts
 ```
 
 ### NodeJs依赖
