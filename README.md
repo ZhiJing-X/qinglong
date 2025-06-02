@@ -1,5 +1,16 @@
 # qinglong
 
+## 安装
+```bash
+docker run -dit \
+  -v $PWD/ql/data:/ql/data \
+  -p 5701:5700 \
+  --name qinglong \
+  --hostname qinglong \
+  --restart unless-stopped \
+  whyour/qinglong:latest
+```
+
 ### 拉库
 
 ## BiliBili-Tool
